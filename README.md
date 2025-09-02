@@ -9,18 +9,13 @@ A hypothetical model of emergent gravity through brane coupling in higher dimens
 
 This work presents a hypothesis where gravity phenomena and the existence of mass emerge from fundamental interactions occurring in 5-dimensional spacetime (CP5D). We postulate the existence of two coupled branes: the matter brane (Bₘₐ) and the antimatter brane (Bₐₙ), whose mutual gravitational repulsion tensions the Bₘₐ brane, providing it with a global gravitational background.
 
-## 📖 Full Text
-
-**📄 [Download Full Hypothesis PDF](https://github.com/ArkOkupski-WAT/Emergent_Gravity/raw/main/Emergentna_Grawitacja.pdf)** - Direct link to the PDF document
-
 ## 🎯 Core Concepts
 
 - **5D Spacetime (CP5D)** as fundamental 4+1 dimensional spacetime
 - Two coupled branes: matter (Bₘₐ) and antimatter (Bₐₙ)
 - Gravitational repulsion between branes as energy source
 - Mass as local "thickening" of spacetime structure
-- Spacetime "wrapping" process around mass instead of traditional "curving"
-
+  
 ## Key Features
 
 - **Emergent Nature**: Gravity emerges from higher-dimensional interactions
